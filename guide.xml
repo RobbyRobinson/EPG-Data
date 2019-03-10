@@ -45,8 +45,8 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/sho.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="Hallmark Movies &amp; Mysteries - Eastern">
-    <display-name lang="en">Hallmark Movies &amp; Mysteries - Eastern</display-name>
+  <channel id="Hallmark Movies and Mysteries - Eastern">
+    <display-name lang="en">Hallmark Movies and Mysteries - Eastern</display-name>
     <icon src="http://cdn.tvpassport.com/image/station/240x135/hmm.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
